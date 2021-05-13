@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+ul{
+    display: grid;
+   grid-template-rows: auto auto auto;
+   white-space: nowrap;
+}
+
+.socialsharingsection{
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    padding-top: 2%;
+}

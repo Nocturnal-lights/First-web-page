@@ -1,0 +1,35 @@
+.blogpageheader{
+    font-size: 20px;
+}
+.socialsection{
+    display: inline-block;
+
+}
+
+#socialmedia{
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto auto auto ;
+    grid-gap: 10px;
+}
+.authorinfo{
+    padding: 4%;
+    display: grid;
+    font-size: 14px;
+}
+
+.homeimage{
+    
+        display: block;
+        max-width: 80%;
+        max-height: 40%;
+        width: auto;
+        height: auto;
+        
+}
+
+.avatar{
+    
+    width: 500px;
+    height: 75%
+} 

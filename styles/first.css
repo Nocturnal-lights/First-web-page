@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+h3{
+    font-size: 20px;
+    color: black;
+}
+u{
+    font-size: 20px;
+}
+li{
+    color: blue;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    color: green;
+}
+
+footer{
+    color: indigo;
+}
+.firstcard{
+    color: blue;
+}
+
+.secondcard{
+    color: crimson;
+}
+
+.thirdcard{
+    color: orange;
+}
+
+
+
